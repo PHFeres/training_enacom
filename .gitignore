@@ -1,0 +1,30 @@
+# ignore idea
+**/.idea/
+**/.pyc
+**/__pycache__/
+*.pyc
+*.ini
+
+# ignore virtualenv directory
+**/venv
+
+# ignore packaging files
+**/build/
+**/dist/
+**/*.egg-info/
+**/tmp
+
+# ignore compilation file
+*.so
+
+# ignore vscode
+**/.vscode
+
+# ignore PNG images
+*.png
+*.xlsx#
+/science_sop_vli/test/artifacts/rascunho.py
+/science_sop_vli/test/artifacts/tmp.json
+
+# ignore configuration files
+*.cfg
